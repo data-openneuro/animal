@@ -9,6 +9,7 @@
 | ds003138/ | 159 | [Tidying Up White Matter: Neuroplastic Transformations in Sensorimotor Tracts following Slackline Skill Acquisition](https://openneuro.org/datasets/ds003138/) | 
 | ds003959/ | 12 | [Soma and Neurite Density MRI (SANDI) of the in-vivo mouse brain](https://openneuro.org/datasets/ds003959/) | 
 | ds003989/ | 3 | [Structural, diffusion and rs-functional MRI data in Macaque Monkeys](https://openneuro.org/datasets/ds003989/) | 
+| ds004161/ | 48 | [Turone Sheep Chronic Stress (TSCS)](https://openneuro.org/datasets/ds004161/) | 
 | ds004305/ | 32 | [Mapping neuroinflammation in vivo with diffusion-MRI in rats given a systemic lipopolysaccharide challenge](https://openneuro.org/datasets/ds004305/) | 
 | ds004441/ | 28 | [Rat_diffusion_STZ](https://openneuro.org/datasets/ds004441/) | 
 | ds004632/ | 27 | [DTI readouts for designing a preclinical stem-cell therapy trial in experimental stroke](https://openneuro.org/datasets/ds004632/) | 
