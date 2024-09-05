@@ -3,7 +3,6 @@
 |       DS NUMBER       |       DWI COUNT       |               NAME            |
 |-----------------|-----------------------|-------------------------------|
 | ds001875 | 9 | [TheVirtualBrain Macaque MRI](https://openneuro.org/datasets/ds001875/) | 
-| ds001928 | 40 | [Functional Connectivity of Music-Induced Analgesia in Fibromyalgia](https://openneuro.org/datasets/ds001928/) | 
 | ds002278 | 2 | [Dense Investigation of Variability of Affect (DIVA)](https://openneuro.org/datasets/ds002278/) | 
 | ds002374 | 1 | [3AM straight reproducibility phantoms](https://openneuro.org/datasets/ds002374/) | 
 | ds003027 | 36 | [plp_nf1_dMRI_fMRI](https://openneuro.org/datasets/ds003027/) | 
