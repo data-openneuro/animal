@@ -9,10 +9,8 @@
 | ds003027 | 36 | [plp_nf1_dMRI_fMRI](https://openneuro.org/datasets/ds003027/) | 
 | ds003138/ | 159 | [Tidying Up White Matter: Neuroplastic Transformations in Sensorimotor Tracts following Slackline Skill Acquisition](https://openneuro.org/datasets/ds003138/) | 
 | ds003171/ | 17 | [Modeling an auditory stimulated brain under altered states of consciousness using the generalized ising model](https://openneuro.org/datasets/ds003171/) | 
-| ds003505/ | 20 | [VEPCON: Source imaging of high-density visual evoked potentials with multi-scale brain parcellations and connectomes](https://openneuro.org/datasets/ds003505/) | 
 | ds003959/ | 12 | [Soma and Neurite Density MRI (SANDI) of the in-vivo mouse brain](https://openneuro.org/datasets/ds003959/) | 
 | ds003989/ | 3 | [Structural, diffusion and rs-functional MRI data in Macaque Monkeys](https://openneuro.org/datasets/ds003989/) | 
-| ds004024/ | 7 | [TMS-EEG-MRI-fMRI-DWI data on paired associative stimulation and connectivity (Shirley Ryan AbilityLab, Chicago, IL)](https://openneuro.org/datasets/ds004024/) | 
 | ds004305/ | 32 | [Mapping neuroinflammation in vivo with diffusion-MRI in rats given a systemic lipopolysaccharide challenge](https://openneuro.org/datasets/ds004305/) | 
 | ds004441/ | 28 | [Rat_diffusion_STZ](https://openneuro.org/datasets/ds004441/) | 
 | ds004498/ | 7 | [Perinatal Stroke](https://openneuro.org/datasets/ds004498/) | 
